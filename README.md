@@ -37,26 +37,9 @@ Accurately identifying fish species is important for environmental monitoring, s
 
 ## 📁 Project Structure
 
-FishClassifierApp/
-│
-├── app/ # Android app source code
-│ ├── java/
-│ │ └── com.example.fishclassifierapp/
-│ │ ├── MainActivity.java
-│ │ └── FishClassifier.java
-│ └── res/
-│ ├── layout/
-│ └── drawable/
-│
-├── model/ # Machine Learning model files
-│ ├── fish_model.tflite
-│ └── labels.txt
-│
-├── assets/ # Additional resources
-│
-├── README.md # Project documentation
-└── .gitignore
+<pre> ``` FishClassifierApp/ ├── app/ # Android app source code │ ├── java/ │ │ └── com.example.fishclassifierapp/ │ │ ├── MainActivity.java │ │ └── FishClassifier.java │ └── res/ │ ├── layout/ │ └── drawable/ ├── model/ # Machine Learning model files │ ├── fish_model.tflite │ └── labels.txt ├── assets/ # Additional resources ├── README.md # Project documentation └── .gitignore ``` </pre>
 ---
+
 ## 📦 Installation & Setup Instructions
 
 1. Clone this repository:
@@ -86,7 +69,11 @@ Currently only available as an Android APK. Download APK
 [Fish Classifier App Demo](https://youtu.be/tJTXbNDRkfg)
 
 ---
+## 📊 Project Presentation
 
+[Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
+
+---
 ## 💡 Future Improvements
 1. Expand dataset to include more fish species
 

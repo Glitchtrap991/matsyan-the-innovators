@@ -34,6 +34,61 @@ Accurately identifying fish species is important for environmental monitoring, s
 | **Version Control**  | Git, GitHub                                    |
 
 ---
+## 🧭 How to Run the FishClassifier Android App
+
+Follow the steps below to clone, build, and run the FishClassifierApp on an Android device or emulator:
+
+---
+
+### 🔧 Prerequisites
+
+- Android Studio installed (Arctic Fox or newer)
+- Android SDK installed (API level 29+ recommended)
+- A physical Android device or emulator
+- Git installed
+
+---
+
+###  1. Clone the Repository
+
+```bash
+git clone https://github.com/Glitchtrap991/matsyan-the-innovators.git
+cd matsyan-the-innovators
+```
+---
+
+### 2. Open the Project in Android Studio
+   *Launch Android Studio.
+
+   *Click File > Open.
+
+   *Navigate to the cloned folder and select the FishClassifierApp/ directory.
+
+   *Let Android Studio index and sync the Gradle files.
+
+---
+
+### 3. Build and Run the App
+   Connect your Android phone (ensure USB Debugging is enabled) or start an emulator.
+
+   Click the Run ▶️ button in Android Studio.
+
+   The app will be installed and launched on the selected device.
+
+---
+
+### 4. How to Use the App
+   Tap “Select Image” on the home screen.
+
+   Choose a fish image from your gallery.
+
+   The model will classify the fish and display:
+
+   Predicted Class ID
+
+Confidence Score
+
+---
 
 ## 📁 Project Structure
 

@@ -82,6 +82,10 @@ FishClassifierApp/
 Currently only available as an Android APK. Download APK
 
 ---
+## Youtube Video Link
+[Fish Classifier App Demo](https://youtu.be/tJTXbNDRkfg)
+
+---
 
 ## 💡 Future Improvements
 1. Expand dataset to include more fish species

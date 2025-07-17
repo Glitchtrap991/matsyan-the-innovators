@@ -86,6 +86,11 @@ Currently only available as an Android APK. Download APK
 [Fish Classifier App Demo](https://youtu.be/tJTXbNDRkfg)
 
 ---
+## 📊 Project Presentation
+
+[Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
+
+---
 
 ## 💡 Future Improvements
 1. Expand dataset to include more fish species

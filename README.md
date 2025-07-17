@@ -1,8 +1,6 @@
 
 # Fish Classifier App
 
-(Your detailed README goes here...)
-
 # matsyan-the-innovators
 # 🐟 Fish Classifier App
 

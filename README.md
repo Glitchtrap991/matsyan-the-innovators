@@ -1,4 +1,3 @@
-
 # Fish Classifier App
 
 # matsyan-the-innovators
@@ -56,6 +55,20 @@ git clone https://github.com/Glitchtrap991/matsyan-the-innovators.git
 cd matsyan-the-innovators
 ```
 ---
+###  Model File Setup
+  Download the model files:
+
+  fish_model.tflite
+  
+  Place them in your Android app's assets directory:
+
+  If the assets/ folder doesn’t exist, create it inside:
+  
+app/src/main/ java/res/assets/fish_model.tflite
+            
+Sync the project in Android Studio to make sure the files are included in the build.
+
+---
 
 ### 2. Open the Project in Android Studio
    *Launch Android Studio.
@@ -97,9 +110,8 @@ Confidence Score
 
 ## 📦 Installation & Setup Instructions
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/fish-classifier-app.git
+1. Clone this repository
+   
 2. Open the project in Android Studio.
 
 3. Place the trained model fish_model.tflite and labels.txt inside the assets/ folder.
@@ -125,13 +137,10 @@ Currently only available as an Android APK. Download APK
 
 ---
 ## 📊 Project Presentation
-<<<<<<< HEAD
-=======
 
 [Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
 
 ---
->>>>>>> d93593533668f77183be195c1e0f2b3a5c1b91b5
 
 [Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
 

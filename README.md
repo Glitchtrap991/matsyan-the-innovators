@@ -70,6 +70,13 @@ Currently only available as an Android APK. Download APK
 
 ---
 ## 📊 Project Presentation
+<<<<<<< HEAD
+=======
+
+[Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
+
+---
+>>>>>>> d93593533668f77183be195c1e0f2b3a5c1b91b5
 
 [Click here to view the PPT presentation](https://github.com/Glitchtrap991/matsyan-the-innovators/raw/main/FishClassifierPPT.pptx)
 
